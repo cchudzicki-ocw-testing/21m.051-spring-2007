@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about related resources for the course,
+  including books, sheet music, and links to related web sites.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

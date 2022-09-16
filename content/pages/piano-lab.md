@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about the Piano Lab, including suggested
+  goals, suggested topics and materials, and example materials used by a Piano Lab
+  instructor.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Piano Lab

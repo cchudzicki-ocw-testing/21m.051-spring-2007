@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information about course content, eligibility,
+  required course tools, required piano labs, exams, grading, and a calendar of lecture
+  topics and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
